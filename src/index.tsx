@@ -24,7 +24,7 @@ const Content: VFC<{ serverAPI: ServerAPI }> = ({}) => {
   // };
 
   return (
-    <PanelSection title="Panel Section">
+    <PanelSection title="Systems">
       <PanelSectionRow>
         <ButtonItem
           layout="below"
