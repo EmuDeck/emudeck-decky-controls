@@ -3,7 +3,8 @@
 Based on  Decky plugin Template
 
 Installation:
-   1. ``pnpm i``
+   . ``pnpm i``
    
-Creating a build
-   2. ``pnpm run build``
+   
+Creating a build:
+   . ``pnpm run build``
